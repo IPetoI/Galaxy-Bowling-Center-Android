@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.PopupOverlay" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/feher</item>
+        <item name="colorPrimaryDark">@color/fekete</item>
+        <item name="colorAccent">@color/feher</item>
+        <item name="android:windowBackground">@color/fekete</item>
+    </style>
+
+</resources>

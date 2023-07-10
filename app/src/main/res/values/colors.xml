@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fekete">#FF000000</color>
+    <color name="kartyak_hattere">#101010</color>
+    <color name="sotetSzurke">#151515</color>
+    <color name="feher">#FFFFFFFF</color>
+    <color name="vilagosSzurke">#606060</color>
+    <color name="atlatszo">#00606060</color>
+    <color name="lila">#840A98</color>
+</resources>
